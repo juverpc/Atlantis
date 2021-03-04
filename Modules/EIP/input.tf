@@ -1,0 +1,1 @@
+variable "ec2_id_eip_input" {}
